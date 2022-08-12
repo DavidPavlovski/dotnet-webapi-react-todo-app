@@ -1,0 +1,12 @@
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\bin\Debug\net6.0\TodoWebApp.Domain.deps.json
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\bin\Debug\net6.0\TodoWebApp.Domain.dll
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\bin\Debug\net6.0\TodoWebApp.Domain.pdb
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\TodoWebApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\TodoWebApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\TodoWebApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\TodoWebApp.Domain.AssemblyInfo.cs
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\TodoWebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\TodoWebApp.Domain.dll
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\refint\TodoWebApp.Domain.dll
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\TodoWebApp.Domain.pdb
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.Domain\obj\Debug\net6.0\ref\TodoWebApp.Domain.dll

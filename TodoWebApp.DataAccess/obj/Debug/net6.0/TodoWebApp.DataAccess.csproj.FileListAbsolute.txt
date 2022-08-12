@@ -1,0 +1,17 @@
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\bin\Debug\net6.0\TodoWebApp.DataAccess.deps.json
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\bin\Debug\net6.0\TodoWebApp.DataAccess.runtimeconfig.json
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\bin\Debug\net6.0\TodoWebApp.DataAccess.dll
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\bin\Debug\net6.0\TodoWebApp.DataAccess.pdb
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\bin\Debug\net6.0\TodoWebApp.Domain.dll
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\bin\Debug\net6.0\TodoWebApp.Domain.pdb
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.AssemblyInfo.cs
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.csproj.CopyComplete
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.dll
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\refint\TodoWebApp.DataAccess.dll
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.pdb
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\TodoWebApp.DataAccess.genruntimeconfig.cache
+C:\Users\Rade\Desktop\Seavus\ASP.NET\TodoWebApp\TodoWebApp.DataAccess\obj\Debug\net6.0\ref\TodoWebApp.DataAccess.dll
